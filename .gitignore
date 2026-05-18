@@ -1,0 +1,15 @@
+# Visual Studio / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+
+# База создаётся при запуске
+**/pharmacy.db
+**/pharmacy.db-journal
+
+# Windows
+Thumbs.db
+Desktop.ini
